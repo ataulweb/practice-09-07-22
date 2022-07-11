@@ -1,0 +1,136 @@
+body{
+    font-family: 'Edu NSW ACT Foundation', cursive;
+
+    font-family: 'Open Sans', sans-serif;
+
+    font-family: 'Work Sans', sans-serif;
+
+    margin: 0;
+}
+
+.top-header{
+    background-image: url(./img/272707.jpg);
+    margin: -15px;
+}
+p a{
+    text-decoration: none;
+    margin-left: 15px;
+}
+
+.header-media {
+    font-size: 25px;
+    text-align: right;
+    margin-right: 15px;
+}
+
+a{
+    padding: 12px;
+}
+
+nav li:hover{
+    background-color: rgba(229, 59, 12, 0.559);
+    padding: 10px 15px;
+    border-radius: 5px;
+}
+
+.bacground-img-section{
+    background-image: url(./img/bg-header-img.jpg);
+    padding: 20px 55px;
+    color: white;
+    text-align: center;
+    margin-top: 80px;
+    background-size: cover;
+        
+}
+
+.bg-heading{
+    font-size: 65px
+}
+
+img{
+    margin-top: 60px;
+    width: 50%;
+    
+}
+
+article p{
+    font-size: 16px;
+    color: rgba(6, 17, 41, 0.523);
+    width: 80%;
+    text-align: center;
+    display: inline-block;
+}
+
+
+.main-section{
+    text-align: center;
+    
+}
+
+table, th, td{
+    border: 1px solid gray;
+    border-collapse: collapse;
+    padding: 10px 55px;
+    
+}
+
+.table-section{
+    text-align: center;
+    margin-left: 35vh;
+}
+
+.donate-btn a{
+    text-decoration: none;
+    border-radius: 5px;
+    color: white;
+    background: orangered;
+    text-align: center;
+    margin-left: 100vh;
+}
+
+.donate-btn:hover a{
+    background-color: rgba(50, 32, 32, 0.727);
+    color: greenyellow
+}
+
+.middle-content {
+    width: 50%;
+    margin: auto;
+    padding: 90px 0;
+}
+
+.donte-heading{
+    text-align: center;
+    font-size: 35px;
+    background-color: coral;
+    padding: 40px;
+}
+
+.photo-galary{
+    width: 100%;
+    display: flex;
+    margin: 20px;
+}
+
+footer{
+    border-top: 2px solid rgb(12, 60, 12);
+    margin-top: 55px;
+    background: rgba(10, 117, 10, 0.593);
+    height: 300px;
+    padding: 20px;
+}
+
+footer p{
+    margin-top: 90px;
+}
+
+footer h4{
+    font-size: 20px;
+    font-weight: 400;
+    color: wheat;
+
+}
+.footer-div{
+    text-align: center;
+    padding-top: 50px;
+}
